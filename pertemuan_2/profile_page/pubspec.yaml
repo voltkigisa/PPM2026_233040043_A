@@ -85,3 +85,6 @@ flutter:
     androidX: true
     androidPackage: com.example.profile_page
     iosBundleIdentifier: com.example.profilePage
+
+  assets:
+    - lib/assets/images/foto.jpg
